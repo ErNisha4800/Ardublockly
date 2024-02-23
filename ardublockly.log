@@ -1,0 +1,3190 @@
+2024-01-24T05:30:15.453Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-24T05:30:15.454Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-24T05:30:15.454Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-24T05:30:15.534Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-24T05:30:18.978Z - info: [ArdublocklySrv] Running Python 3.4.4 (32 bit) on Windows-10-10.0.22621-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Arduino Board does not exist:
+	ESP32 Dev Module
+Default Arduino board type set:
+	Atmel atmega168pb Xplained mini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	COM9
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino_debug.exe
+	Arduino Board Key: Atmel atmega168pb Xplained mini
+	Arduino Board Value: atmel:avr:atmega168pb_xplained_mini
+	Serial Port Value: COM9
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-24T05:33:40.725Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-01-24T05:34:08.362Z - info: [ServerMgr] Server stopped.
+2024-01-24T05:34:08.373Z - info: [ArdublocklySrv] Process exited with code null
+2024-01-24T06:10:44.062Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-24T06:10:44.063Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-24T06:10:44.063Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-24T06:10:44.109Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-24T06:10:44.437Z - info: [ArdublocklySrv] Running Python 3.4.4 (32 bit) on Windows-10-10.0.22621-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Arduino Board does not exist:
+	ESP32 Dev Module
+Default Arduino board type set:
+	Atmel atmega168pb Xplained mini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\Arduino.exe
+	Arduino Board Key: Atmel atmega168pb Xplained mini
+	Arduino Board Value: atmel:avr:atmega168pb_xplained_mini
+	Serial Port Value: COM9
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-24T06:15:29.963Z - info: [ServerMgr] Server stopped.
+2024-01-24T06:15:51.878Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-24T06:15:51.879Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-24T06:15:51.879Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-24T06:15:51.920Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-24T06:15:52.194Z - info: [ArdublocklySrv] Running Python 3.4.4 (32 bit) on Windows-10-10.0.22621-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Arduino Board does not exist:
+	ESP32 Dev Module
+Default Arduino board type set:
+	Atmel atmega168pb Xplained mini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\Arduino.exe
+	Arduino Board Key: Atmel atmega168pb Xplained mini
+	Arduino Board Value: atmel:avr:atmega168pb_xplained_mini
+	Serial Port Value: COM9
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-24T06:16:45.607Z - info: [ArdublocklySrv] Serving on http://Jaimin:8000
+Serving on http://Jaimin:8000
+Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-24T06:16:48.271Z - info: [ArdublocklySrv] IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-24T06:23:40.112Z - info: [ServerMgr] Server stopped.
+2024-01-24T09:33:57.688Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-24T09:33:57.689Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-24T09:33:57.689Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-24T09:33:57.751Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-24T09:33:58.112Z - info: [ArdublocklySrv] Running Python 3.4.4 (32 bit) on Windows-10-10.0.22621-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Arduino Board does not exist:
+	ESP32 Dev Module
+Default Arduino board type set:
+	Atmel atmega168pb Xplained mini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\Arduino.exe
+	Arduino Board Key: Atmel atmega168pb Xplained mini
+	Arduino Board Value: atmel:avr:atmega168pb_xplained_mini
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-24T11:17:38.289Z - info: [ServerMgr] Server stopped.
+2024-01-24T11:17:38.331Z - info: [ArdublocklySrv] Process exited with code null
+2024-01-25T07:21:54.775Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-25T07:21:54.776Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-25T07:21:54.777Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-25T07:21:54.824Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-25T07:22:02.232Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.22631-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\Arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: open
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-25T07:22:02.232Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-25T07:22:02.233Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-25T07:22:09.104Z - info: [ServerMgr] Server stopped.
+2024-01-25T07:22:11.683Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-25T07:22:11.684Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-25T07:22:11.684Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-25T07:22:11.724Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-25T07:22:12.002Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.22631-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\Arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: open
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-25T07:22:12.003Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+
+2024-01-25T07:22:12.003Z - error: [ArdublocklySrv] PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-25T07:22:12.004Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-25T07:22:20.778Z - info: [ArdublocklySrv] Serving on http://Jaimin:8000
+Serving on http://Jaimin:8000
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-25T07:22:27.422Z - info: [ServerMgr] Server stopped.
+2024-01-25T08:34:58.344Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-25T08:34:58.345Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-25T08:34:58.345Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-25T08:34:58.488Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-25T08:36:08.766Z - info: [ArdublocklySrv] Process exited with code 3221225506
+2024-01-25T08:36:14.130Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:36:17.971Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:36:18.622Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:36:22.431Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:36:23.107Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:36:27.150Z - warn: [ArdublocklyElec] Page failed to load (0). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:38:33.845Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-25T08:38:33.846Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-25T08:38:33.846Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-25T08:38:33.935Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-25T08:39:46.373Z - info: [ArdublocklySrv] Process exited with code 3221225506
+2024-01-25T08:39:53.722Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:39:57.560Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:39:58.212Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:02.075Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:02.695Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:06.583Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:07.185Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:11.080Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:11.656Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:15.572Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:16.149Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:20.043Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:20.628Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:24.592Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:25.122Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:29.073Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:29.604Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:33.568Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:34.109Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:38.069Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:38.586Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:42.559Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:43.093Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:47.045Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:47.590Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:51.533Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:40:53.766Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-25T08:40:53.767Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-25T08:40:53.767Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-25T08:40:53.806Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-25T08:42:26.282Z - info: [ArdublocklySrv] Process exited with code 3221225506
+2024-01-25T08:42:31.667Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:35.501Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:36.147Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:39.985Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:40.651Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:44.499Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:45.146Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:49.009Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:49.629Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:53.531Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:54.119Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:58.023Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:42:58.643Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:02.519Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:03.138Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:07.014Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:07.649Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:11.517Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:12.139Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:16.001Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:16.623Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:20.509Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:21.094Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:24.992Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:25.591Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:29.493Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:30.066Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:33.979Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:34.572Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:38.452Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:39.050Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:42.951Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:43.527Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:47.468Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:48.021Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:52.083Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:52.519Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:43:56.599Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:01.602Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:06.135Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:10.646Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:15.140Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:19.642Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:24.148Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:28.634Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:33.132Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:37.621Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:42.119Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:46.583Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:51.073Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:44:55.552Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:00.030Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:04.519Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:09.028Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:13.529Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:18.018Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:22.525Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:27.021Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:31.562Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:36.121Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:40.603Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:45.085Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:49.555Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:54.038Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:45:58.543Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:46:03.044Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:46:07.544Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:46:12.034Z - warn: [ArdublocklyElec] Page failed to load (-102). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:46:15.799Z - warn: [ArdublocklyElec] Page failed to load (0). The server is probably not yet running. Trying again in 200 ms.
+2024-01-25T08:48:38.276Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-25T08:48:38.277Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-25T08:48:38.277Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-25T08:48:38.320Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-25T08:50:10.423Z - info: [ArdublocklySrv] Process exited with code 3221225506
+2024-01-25T08:52:18.201Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-25T08:52:18.201Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-25T08:52:18.201Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-25T08:52:18.251Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-25T08:53:50.738Z - info: [ArdublocklySrv] Process exited with code 3221225506
+2024-01-25T09:26:22.210Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-25T09:26:22.211Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-25T09:26:22.211Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-25T09:26:22.252Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-25T09:26:24.616Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.22631-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	COM9
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\Arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: COM9
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: open
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-25T09:26:24.616Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+
+2024-01-25T09:26:24.616Z - error: [ArdublocklySrv] PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-25T09:26:24.617Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-29T04:32:10.515Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-29T04:32:10.518Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-29T04:32:10.518Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-29T04:32:10.627Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-29T04:32:12.743Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.22631-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\Arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: open
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-29T04:32:12.744Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+
+2024-01-29T04:32:12.745Z - error: [ArdublocklySrv] PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-29T04:32:12.748Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-29T04:33:21.589Z - info: [ServerMgr] Server stopped.
+2024-01-29T04:33:56.188Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-29T04:33:56.191Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-29T04:33:56.191Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-29T04:33:56.282Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-29T04:33:58.617Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.22631-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\Arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: open
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-29T04:33:58.617Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-29T04:33:58.618Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-29T04:34:39.550Z - info: [ArdublocklySrv] Serving on http://Jaimin:8000
+Serving on http://Jaimin:8000
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T04:35:40.324Z - info: [ServerMgr] Server stopped.
+2024-01-29T05:23:32.462Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-29T05:23:32.463Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-29T05:23:32.463Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-29T05:23:32.518Z - info: [ServerMgr] Command: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-29T05:23:32.895Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.22631-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	COM9
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\Arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: COM9
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: open
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-29T05:23:32.896Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+
+2024-01-29T05:23:32.897Z - error: [ArdublocklySrv] PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-29T05:23:32.898Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-29T05:23:48.414Z - info: [ArdublocklySrv] Serving on http://Jaimin:8000
+Serving on http://Jaimin:8000
+IDE options set to:
+	Verify sketch
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T05:23:51.627Z - info: [ArdublocklySrv] IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T05:24:28.826Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\Arduino.exe D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+IDE options set to:
+	Open sketch in IDE
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T05:24:28.854Z - error: [ArdublocklySrv] subprocess.py:1067: ResourceWarning: subprocess 12004 is still running
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+
+2024-01-29T05:26:02.891Z - info: [ArdublocklySrv] 
+Opening the sketch in the Arduino IDE...
+CLI command: C:\Program Files (x86)\Arduino\Arduino.exe D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino
+IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T05:27:36.592Z - info: [ArdublocklySrv] Compiler directory set to:
+	C:\Program Files (x86)\Arduino\arduino_debug.exe
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T05:30:19.553Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino_debug.exe D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+'unicodeescape' codec can't decode bytes in position 41851-41852: truncated \UXXXXXXXX escape
+Compiler directory set to:
+	C:\Program Files (x86)\Arduino\arduino.exe
+Settings file saved to:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T05:30:37.322Z - info: [ServerMgr] Server stopped.
+2024-01-29T05:30:37.335Z - info: [ArdublocklySrv] Process exited with code null
+2024-01-29T06:25:00.155Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-29T06:25:00.157Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-29T06:25:00.157Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-29T06:25:00.503Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-29T06:25:04.280Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+The provided compiler path in the settings file is not valid:
+	C:\Program Files (x86)\Arduino\arduino.exe
+Default compiler path set:
+	None
+Settings file Serial Port is not currently available:
+	COM9
+Default Serial Port set:
+	None
+Settings file sketch directory is not valid:
+	D:\Documents\Downloads\Ardublockly-ESP-master\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Default Sketch directory set:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Final settings loaded:
+	Compiler directory: None
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-29T06:25:04.282Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-29T06:25:04.284Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-29T06:29:23.392Z - info: [ArdublocklySrv] Serving on http://DESKTOP-R7MOC60:8000
+Serving on http://DESKTOP-R7MOC60:8000
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T06:29:36.945Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T06:29:36.950Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-01-29T06:31:03.105Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T06:31:08.419Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T06:31:20.458Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T06:31:27.179Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-01-29T06:31:27.180Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T06:31:41.869Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T06:32:26.886Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T07:07:41.685Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T07:08:08.282Z - info: [ArdublocklySrv] Compiler directory set to:
+	C:\Program Files (x86)\Arduino\arduino.exe
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T07:08:40.589Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T07:08:51.025Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T07:09:02.400Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T07:09:05.955Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T07:20:47.276Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T08:40:08.518Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T08:40:17.264Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T08:40:23.997Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T08:40:26.463Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:01:07.083Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:26:00.002Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:26:14.657Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:26:23.564Z - info: [ArdublocklySrv] IDE options set to:
+	Open sketch in IDE
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:26:31.219Z - info: [ArdublocklySrv] IDE options set to:
+	Open sketch in IDE
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:26:34.987Z - info: [ArdublocklySrv] IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:26:40.091Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:26:53.189Z - info: [ArdublocklySrv] Arduino Board set to:
+	Duemilanove 328p
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:26:59.812Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:26:59.814Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-01-29T10:27:15.561Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:27:33.630Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:27:53.663Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-29T10:28:23.854Z - info: [ServerMgr] Server stopped.
+2024-01-29T10:28:23.886Z - info: [ArdublocklySrv] Process exited with code null
+2024-01-30T05:41:51.374Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-30T05:41:51.376Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-30T05:41:51.376Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-30T05:41:51.454Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-30T05:41:52.139Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-30T05:41:52.140Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+
+2024-01-30T05:41:52.141Z - error: [ArdublocklySrv] PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-30T05:41:52.143Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-30T05:42:15.246Z - info: [ArdublocklySrv] Serving on http://DESKTOP-R7MOC60:8000
+Serving on http://DESKTOP-R7MOC60:8000
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T05:42:24.328Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T05:47:09.685Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T05:47:19.538Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T05:47:26.867Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T05:47:34.132Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T05:47:34.135Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-01-30T05:47:38.869Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T05:47:39.998Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T05:47:49.363Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T05:47:53.679Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T05:56:41.079Z - error: [ArdublocklySrv] waitress\task.py:421: ResourceWarning: unclosed file <_io.BufferedReader name='D:\\Ardublockly-ESP-master\\Ardublockly-ESP_v1-5_Windows32_2020-09-29\\blockly\\media\\click.mp3'>
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+
+2024-01-30T05:56:57.683Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:04:41.966Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+Compiler directory set to:
+	C:\Program Files (x86)\Arduino\arduino.exe
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:06:28.806Z - info: [ArdublocklySrv] The provided compiler path is not valid !!!
+	 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\arduino.exe
+Previous compiler path maintained:
+	C:\Program Files (x86)\Arduino\arduino.exe
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board espressif:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+IDE options set to:
+	Verify sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:31:57.964Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_lilygo_ttgo
+2024-01-30T06:31:57.969Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+Arduino Board set to:
+	ESP32 Lilygo TTGO
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:32:16.763Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-01-30T06:32:16.765Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:32:47.629Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:34:03.873Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ArdublocklySketch\ArdublocklySketch.ino --board espressif:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Error: espressif: Unknown package
+
+Arduino Exit code: 0
+Compiler directory set to:
+	C:\Program Files (x86)\Arduino\arduino.exe
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:49:08.552Z - info: [ArdublocklySrv] Compiler directory set to:
+	C:\Program Files (x86)\Arduino\arduino.exe
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:50:12.272Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:50:15.168Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:50:23.581Z - info: [ArdublocklySrv] IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T06:58:40.131Z - info: [ServerMgr] Server stopped.
+2024-01-30T06:58:40.285Z - info: [ArdublocklySrv] Process exited with code null
+2024-01-30T08:48:05.143Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-30T08:48:05.144Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-30T08:48:05.145Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-30T08:48:05.221Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-30T08:48:06.260Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	COM9
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-30T08:48:06.261Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-30T08:48:06.263Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-30T08:48:41.134Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-01-30T09:29:58.758Z - info: [ServerMgr] Server stopped.
+2024-01-30T09:29:58.780Z - info: [ArdublocklySrv] Process exited with code null
+2024-01-30T09:30:13.804Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-30T09:30:13.813Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-30T09:30:13.813Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-30T09:30:13.894Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-30T09:30:14.707Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-30T09:30:14.708Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-30T09:30:14.710Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-30T09:36:53.488Z - info: [ServerMgr] Server stopped.
+2024-01-30T09:36:53.518Z - info: [ArdublocklySrv] Process exited with code null
+2024-01-30T09:38:50.161Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-30T09:38:50.162Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-30T09:38:50.163Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-30T09:38:50.228Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-30T09:38:50.865Z - info: [ArdublocklySrv] Running Python 3.10.1 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: espressif:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-30T09:38:50.866Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated. The recommended replacement is asyncio
+
+2024-01-30T09:38:50.868Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:914: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:914: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-30T09:39:05.386Z - info: [ArdublocklySrv] Serving on http://DESKTOP-R7MOC60:8000
+Serving on http://DESKTOP-R7MOC60:8000
+The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T09:39:13.304Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T09:39:18.958Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T09:40:01.711Z - info: [ServerMgr] Server stopped.
+2024-01-30T09:45:15.646Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-30T09:45:15.648Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-30T09:45:15.649Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-30T09:45:15.728Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-30T09:45:17.945Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	COM9
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-30T09:45:17.946Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-01-30T09:45:17.949Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-30T09:45:40.232Z - info: [ArdublocklySrv] Serving on http://DESKTOP-R7MOC60:8000
+Serving on http://DESKTOP-R7MOC60:8000
+The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T09:45:47.145Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T09:45:50.910Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-01-30T09:55:34.781Z - info: [ServerMgr] Server stopped.
+2024-01-30T10:00:00.738Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-01-30T10:00:00.740Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-01-30T10:00:00.740Z - info: [ArdublocklyElec] OS detected: win32
+2024-01-30T10:00:02.706Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-01-30T10:00:03.786Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	COM9
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-01-30T10:00:03.787Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+
+2024-01-30T10:00:03.788Z - error: [ArdublocklySrv] PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-01-30T10:00:03.791Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-01-30T10:31:02.866Z - info: [ServerMgr] Server stopped.
+2024-01-30T10:31:02.890Z - info: [ArdublocklySrv] Process exited with code null
+2024-02-10T15:29:33.963Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-02-10T15:29:33.963Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-02-10T15:29:33.963Z - info: [ArdublocklyElec] OS detected: win32
+2024-02-10T15:29:34.354Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-02-10T15:29:38.388Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-10T15:29:38.404Z - info: [ArdublocklySrv] 
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-02-10T15:29:38.405Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+
+2024-02-10T15:29:38.419Z - error: [ArdublocklySrv] PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-02-10T15:29:38.423Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-02-10T15:32:32.102Z - info: [ServerMgr] Server stopped.
+2024-02-10T15:32:32.148Z - info: [ArdublocklySrv] Process exited with code null
+2024-02-10T15:33:30.755Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-02-10T15:33:30.757Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-02-10T15:33:30.757Z - info: [ArdublocklyElec] OS detected: win32
+2024-02-10T15:33:30.831Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-02-10T15:33:31.506Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-02-10T15:33:31.507Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-02-10T15:33:31.511Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-02-10T15:35:02.777Z - info: [ServerMgr] Server stopped.
+2024-02-11T08:39:58.795Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-02-11T08:39:58.800Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-02-11T08:39:58.800Z - info: [ArdublocklyElec] OS detected: win32
+2024-02-11T08:39:58.863Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-02-11T08:40:01.196Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-02-11T08:40:01.196Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-02-11T08:40:01.198Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-02-11T08:47:26.889Z - info: [ArdublocklySrv] Serving on http://DESKTOP-R7MOC60:8000
+Serving on http://DESKTOP-R7MOC60:8000
+The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T08:49:50.114Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T08:49:58.296Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T08:50:04.800Z - info: [ArdublocklySrv] Sketch directory set to:
+	C:\Users\admin\Downloads
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T08:50:15.514Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T09:25:32.915Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino output:
+Sketch uses 236785 bytes (18%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 21048 bytes (6%) of dynamic memory, leaving 306632 bytes for local variables. Maximum is 327680 bytes.
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+Uploading...
+esptool.py v4.5.1
+Serial port COM9
+Connecting..............
+Chip is ESP32-D0WD-V3 (revision v3.1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+Crystal is 40MHz
+MAC: fc:b4:67:4e:60:10
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 921600
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00001000 to 0x00005fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00049fff...
+Compressed 18992 bytes to 13112...
+Writing at 0x00001000... (100 %)
+Wrote 18992 bytes (13112 compressed) at 0x00001000 in 0.4 seconds (effective 426.6 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 146...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 508.4 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 829.8 kbit/s)...
+Hash of data verified.
+Compressed 237152 bytes to 130404...
+Writing at 0x00010000... (12 %)
+Writing at 0x0001d28e... (25 %)
+Writing at 0x00024391... (37 %)
+Writing at 0x0002959c... (50 %)
+Writing at 0x0002ebbd... (62 %)
+Writing at 0x00037120... (75 %)
+Writing at 0x0003f182... (87 %)
+Writing at 0x00044808... (100 %)
+Wrote 237152 bytes (130404 compressed) at 0x00010000 in 2.0 seconds (effective 962.3 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino output:
+Sketch uses 236785 bytes (18%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 21048 bytes (6%) of dynamic memory, leaving 306632 bytes for local variables. Maximum is 327680 bytes.
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+Uploading...
+esptool.py v4.5.1
+Serial port COM9
+Connecting......
+Chip is ESP32-D0WD-V3 (revision v3.1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+Crystal is 40MHz
+MAC: fc:b4:67:4e:60:10
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 921600
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00001000 to 0x00005fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00049fff...
+Compressed 18992 bytes to 13112...
+Writing at 0x00001000... (100 %)
+Wrote 18992 bytes (13112 compressed) at 0x00001000 in 0.3 seconds (effective 440.1 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 146...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 552.5 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 846.8 kbit/s)...
+Hash of data verified.
+Compressed 237152 bytes to 130399...
+Writing at 0x00010000... (12 %)
+Writing at 0x0001d29f... (25 %)
+Writing at 0x00024395... (37 %)
+Writing at 0x000295a0... (50 %)
+Writing at 0x0002ebc1... (62 %)
+Writing at 0x00037124... (75 %)
+Writing at 0x0003f185... (87 %)
+Writing at 0x0004480c... (100 %)
+Wrote 237152 bytes (130399 compressed) at 0x00010000 in 2.0 seconds (effective 967.8 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino output:
+Sketch uses 236817 bytes (18%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 21048 bytes (6%) of dynamic memory, leaving 306632 bytes for local variables. Maximum is 327680 bytes.
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+Uploading...
+esptool.py v4.5.1
+Serial port COM9
+Connecting....
+Chip is ESP32-D0WD-V3 (revision v3.1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+Crystal is 40MHz
+MAC: fc:b4:67:4e:60:10
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 921600
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00001000 to 0x00005fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00049fff...
+Compressed 18992 bytes to 13112...
+Writing at 0x00001000... (100 %)
+Wrote 18992 bytes (13112 compressed) at 0x00001000 in 0.3 seconds (effective 441.3 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 146...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 567.5 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 880.9 kbit/s)...
+Hash of data verified.
+Compressed 237184 bytes to 130432...
+Writing at 0x00010000... (12 %)
+Writing at 0x0001d299... (25 %)
+Writing at 0x000243b1... (37 %)
+Writing at 0x000295a0... (50 %)
+Writing at 0x0002ebb3... (62 %)
+Writing at 0x0003711b... (75 %)
+Writing at 0x0003f172... (87 %)
+Writing at 0x00044806... (100 %)
+Wrote 237184 bytes (130432 compressed) at 0x00010000 in 1.9 seconds (effective 978.1 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+Arduino Exit code: 0
+Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T09:25:32.919Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-02-11T09:27:12.145Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-02-11T09:27:12.164Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T09:27:14.311Z - info: [ServerMgr] Server stopped.
+2024-02-11T09:27:25.257Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-02-11T09:27:25.259Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-02-11T09:27:25.259Z - info: [ArdublocklyElec] OS detected: win32
+2024-02-11T09:27:25.339Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-02-11T09:27:27.744Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: COM9
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\admin\Downloads
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-02-11T09:27:27.745Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+
+2024-02-11T09:27:27.745Z - error: [ArdublocklySrv] PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-02-11T09:27:27.747Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-02-11T09:28:30.476Z - info: [ServerMgr] Server stopped.
+2024-02-11T09:28:32.939Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-02-11T09:28:32.939Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-02-11T09:28:32.939Z - info: [ArdublocklyElec] OS detected: win32
+2024-02-11T09:28:33.015Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-02-11T09:28:33.487Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: COM9
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\admin\Downloads
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-02-11T09:28:33.488Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+
+2024-02-11T09:28:33.489Z - error: [ArdublocklySrv] PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-02-11T09:28:33.492Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-02-11T09:28:49.992Z - info: [ArdublocklySrv] Serving on http://DESKTOP-R7MOC60:8000
+Serving on http://DESKTOP-R7MOC60:8000
+Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T09:28:49.995Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-02-11T09:51:00.943Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino output:
+Sketch uses 236757 bytes (18%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 21048 bytes (6%) of dynamic memory, leaving 306632 bytes for local variables. Maximum is 327680 bytes.
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+Uploading...
+esptool.py v4.5.1
+Serial port COM9
+Connecting.....
+Chip is ESP32-D0WD-V3 (revision v3.1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+Crystal is 40MHz
+MAC: fc:b4:67:4e:60:10
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 921600
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00001000 to 0x00005fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00049fff...
+Compressed 18992 bytes to 13112...
+Writing at 0x00001000... (100 %)
+Wrote 18992 bytes (13112 compressed) at 0x00001000 in 0.4 seconds (effective 432.4 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 146...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 541.8 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 809.7 kbit/s)...
+Hash of data verified.
+Compressed 237120 bytes to 130395...
+Writing at 0x00010000... (12 %)
+Writing at 0x0001d293... (25 %)
+Writing at 0x000243a8... (37 %)
+Writing at 0x000295cc... (50 %)
+Writing at 0x0002ebb8... (62 %)
+Writing at 0x0003710e... (75 %)
+Writing at 0x0003f16c... (87 %)
+Writing at 0x000447f3... (100 %)
+Wrote 237120 bytes (130395 compressed) at 0x00010000 in 2.0 seconds (effective 970.8 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T09:51:00.953Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-02-11T09:51:48.444Z - info: [ArdublocklySrv] Compiler directory set to:
+	C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T10:25:50.408Z - info: [ArdublocklySrv] Arduino output:
+Sketch uses 236805 bytes (18%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 21048 bytes (6%) of dynamic memory, leaving 306632 bytes for local variables. Maximum is 327680 bytes.
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+Uploading...
+esptool.py v4.5.1
+Serial port COM9
+Connecting....
+Chip is ESP32-D0WD-V3 (revision v3.1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+Crystal is 40MHz
+MAC: fc:b4:67:4e:60:10
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 921600
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00001000 to 0x00005fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00049fff...
+Compressed 18992 bytes to 13112...
+Writing at 0x00001000... (100 %)
+Wrote 18992 bytes (13112 compressed) at 0x00001000 in 0.3 seconds (effective 441.5 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 146...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.0 seconds (effective 528.3 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 844.7 kbit/s)...
+Hash of data verified.
+Compressed 237168 bytes to 130417...
+Writing at 0x00010000... (12 %)
+Writing at 0x0001d28e... (25 %)
+Writing at 0x000243ab... (37 %)
+Writing at 0x000295af... (50 %)
+Writing at 0x0002ebc9... (62 %)
+Writing at 0x0003712e... (75 %)
+Writing at 0x0003f18b... (87 %)
+Writing at 0x0004480e... (100 %)
+Wrote 237168 bytes (130417 compressed) at 0x00010000 in 1.9 seconds (effective 974.0 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+Arduino Exit code: 0
+Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T10:25:50.415Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-02-11T10:49:40.920Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T10:56:11.984Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Verify sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T10:56:21.332Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T10:56:35.692Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Verify sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T10:56:39.565Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T10:56:54.175Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Verify sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T10:57:11.130Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T10:57:12.926Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T10:58:53.281Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T11:03:48.759Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Verify sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T11:04:46.619Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T11:08:32.543Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Verify sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T11:08:33.315Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Open sketch in IDE
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T11:08:54.473Z - info: [ArdublocklySrv] 
+Opening the sketch in the Arduino IDE...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Opening the sketch in the Arduino IDE...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T11:08:59.601Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+IDE options set to:
+	Verify sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T11:44:18.902Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+
+Verifying the sketch...
+CLI command: C:\Users\admin\Downloads\final_code_speed_control_of_dc_motor\final_code_speed_control_of_dc_motor.ino C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Error: Exception in arduino_ide_send_code:
+[WinError 193] %1 is not a valid Win32 application
+Compiler directory set to:
+	C:\Program Files (x86)\Arduino\arduino.exe
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T11:47:36.226Z - info: [ArdublocklySrv] 
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+
+Error resolving FQBN: getting
+
+
+Arduino Exit code: 0
+
+Verifying the sketch...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --board esp32:esp32:esp32 --verify
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+
+Error resolving FQBN: getting
+
+
+Arduino Exit code: 0
+IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-11T12:33:30.228Z - info: [ServerMgr] Server stopped.
+2024-02-11T12:33:30.342Z - info: [ArdublocklySrv] Process exited with code null
+2024-02-12T03:41:25.705Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-02-12T03:41:25.707Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-02-12T03:41:25.707Z - info: [ArdublocklyElec] OS detected: win32
+2024-02-12T03:41:25.783Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-02-12T03:41:30.216Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	COM9
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\admin\Downloads
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-02-12T03:41:30.217Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+
+2024-02-12T03:41:30.219Z - error: [ArdublocklySrv] PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-02-12T03:41:30.222Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-02-12T03:45:38.533Z - info: [ArdublocklySrv] Serving on http://DESKTOP-R7MOC60:8000
+Serving on http://DESKTOP-R7MOC60:8000
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T03:45:55.653Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T03:53:28.441Z - info: [ServerMgr] Server stopped.
+2024-02-12T03:53:28.489Z - info: [ArdublocklySrv] Process exited with code null
+2024-02-12T03:53:30.635Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-02-12T03:53:30.639Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-02-12T03:53:30.640Z - info: [ArdublocklyElec] OS detected: win32
+2024-02-12T03:53:30.704Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-02-12T03:53:31.222Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\admin\Downloads
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-02-12T03:53:31.223Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-02-12T03:53:31.225Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-02-12T03:59:06.799Z - info: [ArdublocklySrv] Serving on http://DESKTOP-R7MOC60:8000
+Serving on http://DESKTOP-R7MOC60:8000
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:00:06.399Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:00:18.581Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:00:24.247Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:03:16.975Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+
+Error resolving FQBN: getting
+
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+
+Error resolving FQBN: getting
+
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+
+Error resolving FQBN: getting
+
+
+Arduino Exit code: 0
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:03:26.208Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:03:26.210Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-02-12T04:03:35.294Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:03:46.103Z - info: [ArdublocklySrv] IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:04:36.113Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:04:43.907Z - info: [ArdublocklySrv] The selected Serial Port is no longer available !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:04:46.526Z - info: [ArdublocklySrv] Serial Port set to:
+	COM9
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:21:29.233Z - info: [ArdublocklySrv] 
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+
+Error resolving FQBN: getting
+
+
+Arduino Exit code: 0
+
+Uploading sketch to Arduino...
+CLI command: C:\Program Files (x86)\Arduino\arduino.exe C:\Users\admin\Downloads\ArdublocklySketch\ArdublocklySketch.ino --upload --port COM9 --board esp32:esp32:esp32
+Arduino output:
+
+Arduino Error output:
+Loading configuration...
+Initializing packages...
+Preparing boards...
+Verifying...
+
+Error resolving FQBN: getting
+
+
+Arduino Exit code: 0
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T04:26:12.012Z - info: [ServerMgr] Server stopped.
+2024-02-12T04:26:12.036Z - info: [ArdublocklySrv] Process exited with code null
+2024-02-12T05:23:39.263Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-02-12T05:23:39.265Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-02-12T05:23:39.265Z - info: [ArdublocklyElec] OS detected: win32
+2024-02-12T05:23:39.390Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-02-12T05:23:41.482Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\admin\Downloads
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-02-12T05:23:41.484Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-02-12T05:23:41.488Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-02-12T05:27:23.206Z - info: [ServerMgr] Server stopped.
+2024-02-12T06:29:39.447Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.3-a
+2024-02-12T06:29:39.449Z - info: [ArdublocklyElec] Ardublockly root dir: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+2024-02-12T06:29:39.449Z - info: [ArdublocklyElec] OS detected: win32
+2024-02-12T06:29:39.535Z - info: [ServerMgr] Command: D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\arduexec\server\start.exe --findprojectroot --nobrowser
+2024-02-12T06:29:40.500Z - info: [ArdublocklySrv] Running Python 3.11.3 (64 bit) on Windows-10-10.0.19045-SP0
+Not using local-packages, likely running packaged.
+
+======= Parsing Command line arguments =======
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+======= Resolving server and project paths =======
+Ardublockly root directory:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Current working directory set to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server root:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Selected server ip:
+	localhost
+Selected server port:
+	8000
+
+======= Loading Settings =======
+Settings loaded from:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+Settings file Serial Port is not currently available:
+	None
+Default Serial Port set:
+	None
+Final settings loaded:
+	Compiler directory: C:\Program Files (x86)\Arduino\arduino.exe
+	Arduino Board Key: ESP32 Dev Module
+	Arduino Board Value: esp32:esp32:esp32
+	Serial Port Value: None
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\admin\Downloads
+	Load IDE option: upload
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+======= Starting Server =======
+Setting HTTP Server Document Root to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29
+Launch Server:
+
+2024-02-12T06:29:40.501Z - error: [ArdublocklySrv] Bottle v0.12.15 server starting up (using WaitressServer())...
+Listening on http://localhost:8000/
+Hit Ctrl-C to quit.
+
+PyInstaller\loader\pyimod02_importers.py:419: DeprecationWarning: The asyncore module is deprecated and will be removed in Python 3.12. The recommended replacement is asyncio
+
+2024-02-12T06:29:40.502Z - error: [ArdublocklySrv] <frozen importlib._bootstrap>:1049: ImportWarning: _ImportRedirect.find_spec() not found; falling back to find_module()
+<frozen importlib._bootstrap>:1049: ImportWarning: _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+
+2024-02-12T06:29:48.201Z - info: [ArdublocklySrv] Serving on http://DESKTOP-R7MOC60:8000
+Serving on http://DESKTOP-R7MOC60:8000
+There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:29:55.573Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:29:55.577Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-02-12T06:30:04.028Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:30:45.914Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:31:02.102Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-02-12T06:31:02.103Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:31:06.050Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:31:12.678Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:31:23.022Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:31:28.847Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP8266 WeMos D1
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:31:44.777Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:32:04.620Z - info: [ArdublocklySrv] IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:32:12.373Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:32:13.477Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:32:18.052Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:32:35.452Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:32:45.433Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-02-12T06:32:45.434Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:33:04.958Z - info: [Renderer "http://localhost:8000/blockly/arduino_compressed.js:Blockly.Arduino.Boards.changeBoard():L47"] Tried to set non-existing Arduino board: esp32_dev_module
+2024-02-12T06:33:04.959Z - info: [ArdublocklySrv] Arduino Board set to:
+	ESP32 Dev Module
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:33:09.789Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:33:16.887Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:33:22.390Z - info: [ArdublocklySrv] There are no available Serial Ports !!!
+Settings file saved to:
+	D:\Ardublockly-ESP-master\Ardublockly-ESP_v1-5_Windows32_2020-09-29\ServerCompilerSettings.ini
+
+2024-02-12T06:33:26.290Z - info: [ServerMgr] Server stopped.
